@@ -108,18 +108,18 @@ h1 {
 
 
 
-@media (max-width:450px) {
+ /* @media (max-width:450px) {
 
-    /* .popup {
+    .popup {
         left: 42%;
     }
     .open-popup {
     top: 45%;
     transform: translate(-50%, -50%) scale(1);
     visibility: visible;
-} */
+} 
     h1 {
         font-size: 35px;
     }
 
-}
+} */
